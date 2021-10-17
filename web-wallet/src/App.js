@@ -1,10 +1,10 @@
 import './App.css';
-import FieldsetComponent from './Components/FieldSetComponent/Fieldset';
+import LoginPage from './Pages/Login';
 
 function App() {
   return (
     <div className="App">
-      <FieldsetComponent type='text' name='teste'/>
+      <LoginPage/>
     </div>
   );
 }
