@@ -1,5 +1,8 @@
+import React from 'react';
 import './App.css';
 import LoginPage from './Pages/Login';
+
+//Todo Criar rotas
 
 function App() {
   return (
